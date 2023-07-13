@@ -7,6 +7,10 @@
     },
     "type": "quotes",
     "version": "0.0.1",
+    "source": {
+      "name": "Synonym",
+      "url": "https://synonym.to/"
+    },
     "fields": [
         {
             "name": "Facts",
